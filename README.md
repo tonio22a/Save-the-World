@@ -1,2 +1,4 @@
 # Project AU - Save the World Bot
-Save the World - telegram bot, which is created on the topic of global warming. The bot sends several facts and tips every day at a certain time so that the user takes care of the world.
+Save the World - телеграм-бот, который создан на тему глобального потепления. В программе кода есть несколько команд: для получения совета, факта, а также подписка на рассылку, которая отправляется ежедневно. В боте также есть советы и факты, не связанные абсолютно с глобальным потеплением, но опираясь на них, можно помочь планете.
+
+Наша главная задача - устранение проблем с глобальным потеплением.
