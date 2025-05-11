@@ -5,7 +5,7 @@ import threading
 import time
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-TOKEN = "7650600663:AAGvWQqVZ5lAs12vsT1nmu3f9EqazV1P9Ls"
+TOKEN = "TOKEN"
 bot = telebot.TeleBot(TOKEN)
 
 subscribed_users = set()
